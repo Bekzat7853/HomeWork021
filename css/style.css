@@ -170,6 +170,11 @@
     letter-spacing: 0.1em;
     margin-bottom: 25px;
     margin-left: 30%;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #ffffff;
+    background: transparent;
+    color: #ffffff;
 }
 
 .contact__btn {
